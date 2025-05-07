@@ -2,10 +2,12 @@
 telegram骰子游戏，飞机骰子游戏,单骰游戏
 
 游戏截图
+
 ![image](https://github.com/user-attachments/assets/eeecb8a5-bff5-4630-98cd-e4b64a6b8bd2)
 
 
 后台截图
+
 ![image](https://github.com/user-attachments/assets/5401b961-de5c-4787-944c-dbecc4ee248b)
 
 
